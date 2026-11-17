@@ -1,0 +1,5 @@
+[project]
+name = "copperfern"
+version = "1.2.0"
+description = "Training accelerator utilities"
+requires-python = ">=3.10"
